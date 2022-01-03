@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+    background-position: center; 
+}
+.heading
+{
+font-size: 45px;
+width: 100%;
+margin: 0px;
+font-family: 'Pushster', cursive;
+
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 5px 5px 5px #a000c0;
+    border-radius: 20px ;
+    border-color: #a000c0a6;
+    border-width: 5px;
+    border-style: solid;
+}
+.pics{
+    font-family: 'Pushster', cursive;
+    font-size: 50px;
+   
+}
+.pics1{
+    font-family: 'Pushster', cursive;
+    font-size: 30px;
+    border-radius: 5px;
+    width: 500px;
+    height: 100px;
+    
+}
+
+
