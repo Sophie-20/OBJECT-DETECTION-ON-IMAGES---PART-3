@@ -4,14 +4,13 @@ body {
 }
 .heading
 {
-font-size: 45px;
+font-size: 23px;
 width: 100%;
 margin: 0px;
-font-family: 'Pushster', cursive;
 
 }
 
-#status
+#status,#numberOfObjects
 {
 font-size: 18px;
 }
@@ -21,19 +20,6 @@ canvas{
     border-color: #a000c0a6;
     border-width: 5px;
     border-style: solid;
+    margin-top: 30px;
 }
-.pics{
-    font-family: 'Pushster', cursive;
-    font-size: 50px;
-   
-}
-.pics1{
-    font-family: 'Pushster', cursive;
-    font-size: 30px;
-    border-radius: 5px;
-    width: 500px;
-    height: 100px;
-    
-}
-
 
